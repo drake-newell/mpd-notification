@@ -1,6 +1,5 @@
 *~
 *.o
-config.h
 mpd-notification
 README.html
 version.h
